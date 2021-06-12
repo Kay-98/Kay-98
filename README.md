@@ -8,10 +8,9 @@
 ### Connect with me:
 [<img align="left" alt="Kay-98 | LinkedIn" width="22px" src="https://img-premium.flaticon.com/png/512/174/174857.png?token=exp=1623511345~hmac=a75881e74dcc5cf508184075a965d8ea" />][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/kaya-kumar-0a6151185/
 
 
-
+<br />
 
 ### Skills:
 
@@ -23,10 +22,14 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 
 
-  
-  
-  
+<br />
+<br />
+---
 
+  
+  
+  
+[linkedin]: https://www.linkedin.com/in/kaya-kumar-0a6151185/
 
 
 
