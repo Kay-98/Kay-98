@@ -11,7 +11,7 @@
 <br />
 
 ### Check out my blog:
-[<img align="left" alt="Kayfully Yours | Blogger" width="22px" src="http://images5.fanpop.com/image/photos/26200000/Blogger-logo-blogger-26274455-252-252.png" />][blogger]
+[<img align="left" alt="Kayfully Yours | Blogger" width="22px" src="https://www.thoughtco.com/thmb/v4P_CNrqWGsQrdj6RaANe2XSVbk=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/Blogger.svg-57f268d63df78c690fe5d003.png" />][blogger]
 <br />
 
  
