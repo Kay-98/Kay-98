@@ -10,7 +10,7 @@
 
 <br />
 
-### My blog:
+### Check out my blog:
 [<img align="left" alt="Kayfully Yours | Blogger" width="22px" src="http://images5.fanpop.com/image/photos/26200000/Blogger-logo-blogger-26274455-252-252.png" />][blogger]
 <br />
 
