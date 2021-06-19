@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning Angular
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I :heart: cat memes
-
 </br>
 
 ### Connect with me:
