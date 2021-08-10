@@ -1,9 +1,9 @@
 ### Hey there, I'm Kaya 👋
 
-- :computer: Working as a .NET developer at H&R Block
-- 🌱 I’m currently learning Angular
+- :computer: Working as a Backend Engineer at H&R Block
+- 🌱 I’m currently learning .NET Core
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I :heart: cat memes
+- ⚡ I :heart: cat memes
 </br>
 
 ### Connect with me:
